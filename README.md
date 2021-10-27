@@ -1,6 +1,6 @@
 <img src="https://github.com/cPyrobyte/cPyrobyte/blob/main/hi.png" /> 
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Galaxzy345&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=cPyrobyte&data=followers,repositories,stars,commits"></p>
 
 ```diff 
 💀 Age: 15.

@@ -6,9 +6,11 @@
 💀 Age: 15.
 📬 Contact: Senster#9173.
 🖥️ Favorite Coding Lang: Python & Java.
+💼 Experience: 1-2 Years
 
 📜 About me: Just A Normal Boy From Slovakia.
-              Also Love To Code Clients For Minecraft Anarchy + Discord Tools
+   Also Love To Code Clients For Minecraft Anarchy + Discord Tools
+   And No I Don't Skid Even If It Look Like It.
 ```
   
 <br> 
@@ -19,8 +21,8 @@
 <br> 
 
 ## 😱 More Info
-<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Galaxzy345&theme=material-palenight"></p>
+<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=cPyrobyte&theme=material-palenight"></p>
 
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Galaxzy345&show_icons=true&theme=tokyonight" /></p>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=cPyrobyte&show_icons=true&theme=tokyonight" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxzy345&layout=compact&theme=blueberry" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cPyrobyte&layout=compact&theme=blueberry" /></p>

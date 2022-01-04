@@ -10,7 +10,6 @@
 
 📜 About me: Just A Normal Boy From Slovakia.
    Also Love To Code Clients For Minecraft Anarchy + Discord Tools
-   And No I Don't Skid Even If It Look Like It.
 ```
   
 <br> 

@@ -3,7 +3,7 @@
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=cPyrobyte&data=followers,repositories,stars,commits"></p>
 
 ```diff 
-💀 Age: 15.
+💀 Age: 14.
 📬 Contact: cPyrobyte#9173.
 🖥️ Favorite Coding Lang: Python & Java.
 💼 Experience: 1-2 Years

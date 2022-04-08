@@ -1,7 +1,5 @@
 <img src="https://github.com/cPyrobyte/cPyrobyte/blob/main/banner.png" /> 
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=cPyrobyte&data=followers,repositories,stars,commits"></p>
-
 ```diff 
 💀 Age: 14.
 📬 Contact: cPyrobyte#9173.
